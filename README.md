@@ -1,1 +1,1 @@
-# laba4_tritpo
+# laba6_tritpo
